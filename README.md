@@ -1,9 +1,9 @@
 <h1 align="center">Hello World 👋, I'm Digvijay Singh</h1>
 <h3 align="center">A Cybersecurity Researcher from New Delhi.</h3>
+[![MasterHead](https://camo.githubusercontent.com/d87412330e179c453793251de9ef574f11d2c570510e949304f1a767ad891b6c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966)]
 
+<h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digvijaysinghh&label=Profile%20views&color=0e75b6&style=flat" alt="digvijaysinghh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=digvijaysinghh" alt="digvijaysinghh" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
