@@ -1,8 +1,6 @@
 <h1 align="center">Hello World 👋, I'm Digvijay Singh</h1>
 <h3 align="center">A Cybersecurity Researcher from New Delhi.</h3>
 
-![Masterhead](https://camo.githubusercontent.com/d87412330e179c453793251de9ef574f11d2c570510e949304f1a767ad891b6c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digvijaysinghh&label=Profile%20views&color=0e75b6&style=flat" alt="digvijaysinghh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/digvijaysinghhh" target="blank"><img src="https://img.shields.io/twitter/follow/digvijaysinghhh?logo=twitter&style=for-the-badge" alt="digvijaysinghhh" /></a> </p>
@@ -19,3 +17,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=digvijaysinghh&show_icons=true&locale=en&layout=compact" alt="digvijaysinghh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=digvijaysinghh&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="digvijaysinghh" /></p>
+
+[![An image of @digvijaysinghh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/digvijaysinghh)](https://holopin.io/@digvijaysinghh)
+
