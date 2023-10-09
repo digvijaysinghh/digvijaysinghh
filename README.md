@@ -17,6 +17,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=digvijaysinghh&show_icons=true&locale=en&layout=compact" alt="digvijaysinghh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=digvijaysinghh&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="digvijaysinghh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=digvijaysinghh&" alt="digvijaysinghh" /></p>
 
 [![An image of @digvijaysinghh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/digvijaysinghh)](https://holopin.io/@digvijaysinghh)
 
