@@ -31,4 +31,4 @@
 <br>
 [![An image of @digvijaysinghh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/digvijaysinghh)](https://holopin.io/@digvijaysinghh)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=digvijaysinghh)
+![](https://komarev.com/ghpvc/?username=digvijaysinghh&style=flat-square)
